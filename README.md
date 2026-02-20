@@ -33,6 +33,7 @@ The Z-axis is the most profound discovery of this theory. It represents the "Roo
 ![Initial Concept](./t_space_initial_concept.pn.png)
 
 This is a new 3D version.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kSv-JBDAUTGwOKi9Bhvf5l0tWEUUf-zg)
 
 
