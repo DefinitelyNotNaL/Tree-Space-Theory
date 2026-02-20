@@ -38,3 +38,14 @@ The T-Space Theory offers a unified vision of a living Universe. We are not mere
 
 ---
 *© 2026 DefinitelyNotNaL. All rights reserved. Intellectual property of the T-Space conceptual framework is tied to the initial commit of this repository.*
+
+### 4. THE NAVIGATOR'S DYNAMICS (HYPOTHESIS)
+To quantify the transition between Branches (Y-axis), we introduce the **Navigator's Formula**:
+
+$$\Delta Y \approx \frac{E_{obs}}{M_{trunk}}$$
+
+* **ΔY:** The degree of shift into an alternative probability branch.
+* **E_obs:** The informational/quantum energy of the observer's choice.
+* **M_trunk:** The causal inertia (mass) of the established timeline.
+
+**Implication:** This explains why microscopic systems exhibit high fluidity (quantum jumps), while macroscopic systems remain deterministic (stable Trunk). High-level change requires observation energy that exceeds the momentum of past events.
