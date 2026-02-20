@@ -27,6 +27,7 @@ The Y-axis is the dimension of "What If". It represents the total sum of all pro
 ### 🌿 Axis Z: The Roots (Causal Depth & Physical Constants)
 The Z-axis is the most profound discovery of this theory. It represents the "Root System"—the fundamental laws of physics and the density of the gravitational field. Movement along the Z-axis is not movement through space, but movement through the **intensity** of reality itself. The deeper the roots, the slower the flow of time on the X-axis.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ССЫЛКА_НА_ТВОЙ_COLAB)
 ---
 
 ## 2. THE DIMENSIONAL REVOLUTION: REDEFINING 4D AND 5D
