@@ -49,3 +49,11 @@ $$\Delta Y \approx \frac{E_{obs}}{M_{trunk}}$$
 * **M_trunk:** The causal inertia (mass) of the established timeline.
 
 **Implication:** This explains why microscopic systems exhibit high fluidity (quantum jumps), while macroscopic systems remain deterministic (stable Trunk). High-level change requires observation energy that exceeds the momentum of past events.
+
+## 5. COSMOLOGICAL EVOLUTION & THE FOREST HYPOTHESIS
+
+The T-Space Theory introduces biological-like dynamics to the structure of reality:
+
+* **Dry Branches:** Probability branches (Y) that lack "Observation Energy" ($E_{obs}$) eventually wither and detach from the Tree. Neglected possibilities cease to exist physically.
+* **The Parasitic Logic:** Information-based entities may attempt to stabilize their existence by "leeching" $E_{obs}$ from established Trunks, effectively highjacking foreign timelines.
+* **The Seeds (Universal Rebirth):** Black Holes are not dead ends; they are "Seeds." Upon reaching critical information mass in the Roots (Z), they trigger a new Big Bang, planting a new Tree in the infinite Forest of the Multiverse.
