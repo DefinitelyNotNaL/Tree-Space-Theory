@@ -29,7 +29,7 @@ The Z-axis is the most profound discovery of this theory. It represents the "Roo
 
 
 **P.S.** As shown in the sketch, the transition from human perception (Linear Time) to the actual fractal structure of the Multiverse was the core focus of this research.
-![Initial Concept](Снимок_экрана_2026-02-21_041241.png)
+![Initial Concept](Снимок экрана 2026-02-21 041241.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kSv-JBDAUTGwOKi9Bhvf5l0tWEUUf-zg)
 
