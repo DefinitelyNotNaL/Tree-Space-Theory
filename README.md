@@ -27,6 +27,19 @@ The Y-axis is the dimension of "What If". It represents the total sum of all pro
 ### 🌿 Axis Z: The Roots (Causal Depth & Physical Constants)
 The Z-axis is the most profound discovery of this theory. It represents the "Root System"—the fundamental laws of physics and the density of the gravitational field. Movement along the Z-axis is not movement through space, but movement through the **intensity** of reality itself. The deeper the roots, the slower the flow of time on the X-axis.
 
+---
+### Current Prediction: The Quantum Rattle Effect
+One of the primary differentiators of T-Space Theory is how it handles the **Event Horizon**. 
+
+In classical 4D models, an object "freezes" at the horizon as $dT_x \to 0$. In our 5D manifold, while the **Trunk (X)** stalls, the **Branches (Y)** maintain high-frequency probability fluctuations.
+
+**Mathematical Proof (Simulation v1.2.0):**
+We have modeled this behavior in `anomaly_engine.py`. Even at near-zero temporal flow, the particle exhibits "Quantum Rattle" — a vertical flickering in the probability space.
+
+![Quantum Rattle Chart](![Quantum Rattle Output](./anomaly_engine.png))
+
+*This effect could potentially explain anomalous spectral shifts observed near high-density causal sinks (Black Holes).*
+
 
 **P.S.** As shown in the sketch, the transition from human perception (Linear Time) to the actual fractal structure of the Multiverse was the core focus of this research.
 
